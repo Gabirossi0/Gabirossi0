@@ -1,16 +1,22 @@
-## Hi there 👋
+# Oi, eu sou a Gabrielly 👋
 
-<!--
-**Gabirossi0/Gabirossi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software (5º período)  
+Desenvolvedora com foco em Java  
+Experiência com redes cartorárias e imobiliárias  
+Interesse em design e organização de sistemas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+##Tecnologias
+
+- Java
+- MySQL
+- HTML & CSS
+- Redes e Infraestrutura
+
+---
+
+## Contato
+
+- Email: gabriellyrossi02@hotmail.com
 -->
