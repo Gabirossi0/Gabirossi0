@@ -16,7 +16,7 @@
 
 ## <img src="https://flagcdn.com/w40/br.png" width="30" alt="Brazil Flag"/> Sobre mim 
 
-Olá! Me chamo Gabrielly Rossi Araujo e sou estudante de Engenharia de Software (5º período) pela Unicesumar. Tenho foco em desenvolvimento Java e interesse em criação e organização de sistemas, desenvolvimento web, redes e infraestrutura. Também possuo experiência com soluções voltadas para ambientes cartorários e imobiliários, buscando sempre desenvolver aplicações funcionais e bem estruturadas..
+Olá! Me chamo Gabrielly Rossi Araujo e sou estudante de Engenharia de Software (6º período) pela Unicesumar. Tenho foco em desenvolvimento Java e interesse em criação e organização de sistemas, desenvolvimento web, redes e infraestrutura. Também possuo experiência com soluções voltadas para ambientes cartorários e imobiliários, buscando sempre desenvolver aplicações funcionais e bem estruturadas..
 
 ---
 
@@ -92,7 +92,7 @@ Olá! Me chamo Gabrielly Rossi Araujo e sou estudante de Engenharia de Software 
 
 ## <img src="https://flagcdn.com/w40/us.png" width="30" alt="USA Flag"/> About Me
 
-Hi! My name is Gabrielly Rossi Araujo, and I am a 5th-semester Software Engineering student at Unicesumar.
+Hi! My name is Gabrielly Rossi Araujo, and I am a 6th-semester Software Engineering student at Unicesumar.
 
 My main focus is Java development, and I am interested in system development and organization, web development, networks, and infrastructure.
 
