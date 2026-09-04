@@ -89,36 +89,8 @@ Olá! Me chamo Gabrielly Rossi Araujo e sou estudante de Engenharia de Software 
 
 </p>
 
-**Email:** [gabriellyrossi02@hotmail.com](mailto:gabriellyrossi02@hotmail.com)
-**WhatsApp:** (44) 99757-7363
 
----
-
-<p align="center">
-  <i>"Transformando ideias em soluções através da tecnologia."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=100&section=header&reversal=true"/>
-</p>
-
-<h1 align="center">Gabrielly Rossi Araujo</h1>
-
-<h3 align="center">
-  💻 Software Engineering • Unicesumar
-</h3>
-
-<p align="center">
-  Developer • Java • JavaScript • Web Development
-</p>
-
----
-
-## 👩🏻‍💻 About Me
+## <img src="https://flagcdn.com/w40/us.png" width="30" alt="USA Flag"/> About Me
 
 Hi! My name is Gabrielly Rossi Araujo, and I am a 5th-semester Software Engineering student at Unicesumar.
 
