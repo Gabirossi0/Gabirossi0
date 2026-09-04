@@ -14,7 +14,7 @@
 
 ---
 
-## 👩🏻‍💻 Sobre mim <img src="https://flagcdn.com/w40/br.png" width="30" alt="Brazil Flag"/>
+## <img src="https://flagcdn.com/w40/br.png" width="30" alt="Brazil Flag"/> Sobre mim 
 
 Olá! Me chamo Gabrielly Rossi Araujo e sou estudante de Engenharia de Software (5º período) pela Unicesumar. Tenho foco em desenvolvimento Java e interesse em criação e organização de sistemas, desenvolvimento web, redes e infraestrutura. Também possuo experiência com soluções voltadas para ambientes cartorários e imobiliários, buscando sempre desenvolver aplicações funcionais e bem estruturadas..
 
