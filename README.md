@@ -101,3 +101,119 @@ Olá! Me chamo Gabrielly Rossi Araujo e sou estudante de Engenharia de Software 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=100&section=footer"/>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=100&section=header&reversal=true"/>
+</p>
+
+<h1 align="center">Gabrielly Rossi Araujo</h1>
+
+<h3 align="center">
+  💻 Software Engineering • Unicesumar
+</h3>
+
+<p align="center">
+  Developer • Java • JavaScript • Web Development
+</p>
+
+---
+
+## 👩🏻‍💻 About Me
+
+Hi! My name is Gabrielly Rossi Araujo, and I am a 5th-semester Software Engineering student at Unicesumar.
+
+My main focus is Java development, and I am interested in system development and organization, web development, networks, and infrastructure.
+
+I also have experience with solutions for notary and real estate environments, always aiming to build functional, organized, and well-structured applications.
+
+---
+
+<h3 align="center"> Languages and Tools</h3>
+
+<p align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" title="Spring Boot"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" title="IntelliJ IDEA"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45" title="WordPress"/>
+
+</p>
+
+---
+
+## Areas of Interest
+
+* Back-end Development with Java
+* Web Development
+* Databases
+* APIs and Automation
+* Software Testing
+* Development of Systems and Business Solutions
+* Information Security
+
+---
+
+## Currently Studying
+
+* Software Engineering
+* Java and Object-Oriented Programming
+* Spring Boot
+* SQL and NoSQL Databases
+* JavaScript
+* REST API Development
+* Software Architecture and Processes
+* Software Testing and Quality
+
+---
+
+## Languages
+
+* Portuguese — Native
+* English — Intermediate
+
+---
+
+## Connect with Me
+
+<p align="left">
+
+  <a href="mailto:gabriellyrossi02@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-F8C8DC?style=for-the-badge&logo=microsoftoutlook&logoColor=black">
+  </a>
+
+  <a href="https://wa.me/5544997577363" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+
+</p>
+
+**Email:** [gabriellyrossi02@hotmail.com](mailto:gabriellyrossi02@hotmail.com)
+**WhatsApp:** +55 (44) 99757-7363
+
+---
+
+<p align="center">
+  <i>"Turning ideas into solutions through technology."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=100&section=footer"/>
+</p>
+
