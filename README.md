@@ -176,16 +176,5 @@ I also have experience with solutions for notary and real estate environments, a
 
 </p>
 
-**Email:** [gabriellyrossi02@hotmail.com](mailto:gabriellyrossi02@hotmail.com)
-**WhatsApp:** +55 (44) 99757-7363
 
----
-
-<p align="center">
-  <i>"Turning ideas into solutions through technology."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=100&section=footer"/>
-</p>
 
