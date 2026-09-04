@@ -16,15 +16,7 @@
 
 ## 👩🏻‍💻 Sobre mim
 
-Olá! Me chamo <b>Gabrielly Rossi Araujo</b> e sou estudante de <b>Engenharia de Software pela Unicesumar</b>.
-
-Sou apaixonada por tecnologia e desenvolvimento de software, com interesse em transformar ideias e problemas reais em soluções funcionais através da programação.
-
-Tenho experiência acadêmica e prática com desenvolvimento <b>Back-end e Front-end</b>, criação de sistemas web, APIs, bancos de dados, automações e desenvolvimento de projetos utilizando principalmente <b>Java, Spring Boot, JavaScript, HTML, CSS e SQL</b>.
-
-Também desenvolvo projetos próprios e soluções para clientes, trabalhando com sistemas web, WordPress, automações e aplicações voltadas para otimização de processos.
-
-Estou constantemente buscando evoluir meus conhecimentos, aprender novas tecnologias e construir projetos que contribuam para minha formação como Engenheira de Software.
+Olá! Me chamo Gabrielly Rossi Araujo e sou estudante de Engenharia de Software (5º período) pela Unicesumar. Tenho foco em desenvolvimento Java e interesse em criação e organização de sistemas, desenvolvimento web, redes e infraestrutura. Também possuo experiência com soluções voltadas para ambientes cartorários e imobiliários, buscando sempre desenvolver aplicações funcionais e bem estruturadas..
 
 ---
 
@@ -42,13 +34,9 @@ Estou constantemente buscando evoluir meus conhecimentos, aprender novas tecnolo
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub"/>
 
