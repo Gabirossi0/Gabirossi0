@@ -4,11 +4,8 @@
 
 <h1 align="center">Gabrielly Rossi Araujo</h1>
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-<h1 
-
-  <h3 align="center">
-    images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
-  </h3>
-    <h3 align="center">
+ images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
+<h3 align="center">
   💻 Engenharia de Software • Unicesumar
 </h3>
 
