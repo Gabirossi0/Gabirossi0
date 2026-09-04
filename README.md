@@ -13,7 +13,7 @@
 </h3>
 
 <h3 align="center">
-  💻 Engenharia de Software • Unicesumar
+  Engenharia de Software • Unicesumar
 </h3>
 
 <p align="center">
